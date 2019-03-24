@@ -3,3 +3,23 @@
 ################################################################################
 
 /command/bin/Debug/netcoreapp2.1
+/command/obj/Release/netcoreapp2.1
+/command/obj/project.assets.json
+/command/obj/command.csproj.nuget.g.targets
+/command/obj/command.csproj.nuget.g.props
+/command/obj/command.csproj.nuget.cache
+/command/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/command/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/command/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/command/obj/Debug/netcoreapp2.1/project.razor.json
+/command/obj/Debug/netcoreapp2.1/command.pdb
+/command/obj/Debug/netcoreapp2.1/command.dll
+/command/obj/Debug/netcoreapp2.1/command.csprojAssemblyReference.cache
+/command/obj/Debug/netcoreapp2.1/command.csproj.FileListAbsolute.txt
+/command/obj/Debug/netcoreapp2.1/command.csproj.CoreCompileInputs.cache
+/command/obj/Debug/netcoreapp2.1/command.assets.cache
+/command/obj/Debug/netcoreapp2.1/command.AssemblyInfoInputs.cache
+/command/obj/Debug/netcoreapp2.1/command.AssemblyInfo.cs
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
+/.vs/design_mode/v15/.suo
